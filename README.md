@@ -10,9 +10,13 @@ Simple prediction model using regression and classification(All plots in plots f
 предсказание при помощи алгоритмов ​ Random Forest Classifier ​ и ​ Random Forest
 Regression​.
 Вывод программы:
+
 --------------- 1. Initial data ---------------
+
 Baseline data available on link: https://plot.ly/~paulprokhorenko/8
+
 --------------- 2. Univariate analysis of prices ---------------
+
 Histogram of baseline data available on link: https://plot.ly/~paulprokhorenko/10
 Central tendencies
 Mean is: 2.7096774193548394
@@ -21,7 +25,9 @@ Mode is: 0 0.0
 dtype: float64
 Min is: 0.0
 Max is:4.99
+
 --------------- 3. Correlation heat map ---------------
+
 Heatmap of correlation between days available on link:
 https://plot.ly/~paulprokhorenko/4
 Dataframe what show vision of data by researcher:
@@ -39,11 +45,15 @@ Thur -0.279118 -0.479181 0.457333 1.000000 -0.091690 0.921056 -0.700739
 Fri -0.400443 -0.636169 0.808235 -0.091690 1.000000 -0.172319 0.283676
 Sat 0.106747 -0.171982 0.251501 0.921056 -0.172319 1.000000 -0.922233
 Sun -0.482009 -0.188786 0.036519 -0.700739 0.283676 -0.922233 1.000000
+
 --------------- 4. Predicted values by using Random Forest Classifier ---------------
+
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 Predict
 2.71 2.71 2.71 3.44 2.45 2.71 2.71
+
 --------------- 5. Predicted values by using Random Forest Regression ---------------
+
 Monday Tuesday Wednesday Thursday
 Friday Saturday
 Sunday
