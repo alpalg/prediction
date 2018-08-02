@@ -60,8 +60,12 @@ Sunday
 Predict 2.604391 2.736224
 1.87165 2.763616 2.566987 2.456513 2.546413
 Prediction results available on link: https://plot.ly/~paulprokhorenko/10
+Examples of plots:
 
 ![Screenshot](plots/prices-distribution.jpeg)
+![Screenshot](plots/2d-histogram.jpeg)
+![Screenshot](plots/correl-heatmap.jpeg)
+![Screenshot](plots/prediction-results.jpeg)
 
 
 Вывод: так как используются случайные данные для предсказания, получаем и
